@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+}
+
+
+.social-media-icons {
+    display: flex;
+    align-items: center;
+}
+
+.social-icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color:beige; 
+}
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navbar-brand img {
+    margin-right: 5px;
+}
+
+
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+
+}
+
+.dark-mode a {
+    color: #9f9f9f; }
+
+    /* Dark mode styles for accordion */
+.dark-mode .accordion-item {
+    background-color: #333; /* Adjust background color for dark mode */
+    color: #fff; /* Adjust text color for dark mode */
+}
+
+
+
+ 
+
+
+
+
+
+
